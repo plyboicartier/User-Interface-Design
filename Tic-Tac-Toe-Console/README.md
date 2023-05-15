@@ -1,7 +1,7 @@
-# Assignment 1 <br>
+# Assignment 2 <br>
 ## Goal <br>
- - Become familiar with C# conecepts
- - Learn how to utilize user input in the console with C#
+ - Become further familiar with C# concepts
+ - Console UI with C#
 ## Description <br>
 You are asked to write a program that provides the user with a menu on the console interface. The main menu has the following choices:<br>
 

@@ -1,5 +1,0 @@
-C:\Users\Carter\College\Fall 2022\User Interface\Assignment 3\Cglynn_Assignment3\obj\Debug\net5.0\Cglynn_Assignment3.csproj.AssemblyReference.cache
-C:\Users\Carter\College\Fall 2022\User Interface\Assignment 3\Cglynn_Assignment3\obj\Debug\net5.0\Cglynn_Assignment3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Carter\College\Fall 2022\User Interface\Assignment 3\Cglynn_Assignment3\obj\Debug\net5.0\Cglynn_Assignment3.AssemblyInfoInputs.cache
-C:\Users\Carter\College\Fall 2022\User Interface\Assignment 3\Cglynn_Assignment3\obj\Debug\net5.0\Cglynn_Assignment3.AssemblyInfo.cs
-C:\Users\Carter\College\Fall 2022\User Interface\Assignment 3\Cglynn_Assignment3\obj\Debug\net5.0\Cglynn_Assignment3.csproj.CoreCompileInputs.cache
